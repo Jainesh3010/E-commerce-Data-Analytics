@@ -65,15 +65,10 @@ The dashboard uses a custom:
 
 # 📷 Dashboard Preview
 
-<img width="1600" height="828" alt="c8303f80-5444-4754-a5dc-5ed4ee30484e" src="https://github.com/user-attachments/assets/b9a1fa08-fec4-4a9a-9aee-36d47fcb03f7" />
 
 
-Example:
+<img width="1600" height="752" alt="3b1e589f-c354-4364-bc69-2723c8982c1a" src="https://github.com/user-attachments/assets/5d9b59a6-ae8b-49bb-b85a-99f809b789a5" />
 
-```md
-<img width="1600" height="828" alt="c8303f80-5444-4754-a5dc-5ed4ee30484e" src="https://github.com/user-attachments/assets/7b01a00c-7685-441d-b028-f967ba809016" />
-
-```
 
 ---
 
