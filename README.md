@@ -1,4 +1,4 @@
-<img width="1600" height="828" alt="c8303f80-5444-4754-a5dc-5ed4ee30484e" src="https://github.com/user-attachments/assets/84022c7a-c851-42cf-a382-ff49d16579b8" /># 🛒 Premium E-Commerce Sales Dashboard
+Sales Dashboard
 
 A modern and interactive **E-Commerce Sales Dashboard** built using **Power BI** to analyze sales performance, profits, regional trends, and category insights through a luxury black-gold themed business intelligence interface.
 
