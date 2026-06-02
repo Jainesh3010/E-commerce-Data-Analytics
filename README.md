@@ -65,7 +65,8 @@ The dashboard uses a custom:
 
 # 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1600" height="828" alt="c8303f80-5444-4754-a5dc-5ed4ee30484e" src="https://github.com/user-attachments/assets/b9a1fa08-fec4-4a9a-9aee-36d47fcb03f7" />
+
 
 Example:
 
