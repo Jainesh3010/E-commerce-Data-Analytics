@@ -1,3 +1,10 @@
+# 📷 Dashboard Preview
+
+
+
+<img width="1600" height="752" alt="3b1e589f-c354-4364-bc69-2723c8982c1a" src="https://github.com/user-attachments/assets/5d9b59a6-ae8b-49bb-b85a-99f809b789a5" />
+
+
 Sales Dashboard
 
 A modern and interactive **E-Commerce Sales Dashboard** built using **Power BI** to analyze sales performance, profits, regional trends, and category insights through a luxury black-gold themed business intelligence interface.
@@ -60,14 +67,6 @@ The dashboard uses a custom:
 * Gold Accent Visuals
 * Minimal Premium UI
 * Interactive Business Analytics Layout
-
----
-
-# 📷 Dashboard Preview
-
-
-
-<img width="1600" height="752" alt="3b1e589f-c354-4364-bc69-2723c8982c1a" src="https://github.com/user-attachments/assets/5d9b59a6-ae8b-49bb-b85a-99f809b789a5" />
 
 
 ---
