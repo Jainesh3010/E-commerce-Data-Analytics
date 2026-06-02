@@ -1,4 +1,4 @@
-# 🛒 Premium E-Commerce Sales Dashboard
+<img width="1600" height="828" alt="c8303f80-5444-4754-a5dc-5ed4ee30484e" src="https://github.com/user-attachments/assets/84022c7a-c851-42cf-a382-ff49d16579b8" /># 🛒 Premium E-Commerce Sales Dashboard
 
 A modern and interactive **E-Commerce Sales Dashboard** built using **Power BI** to analyze sales performance, profits, regional trends, and category insights through a luxury black-gold themed business intelligence interface.
 
@@ -63,13 +63,6 @@ The dashboard uses a custom:
 
 ---
 
-# 📈 KPIs Included
-
-* Total Sales
-* Total Profit
-* Total Orders
-* Total Products
-
 # 📷 Dashboard Preview
 
 (Add your dashboard screenshot here)
@@ -77,9 +70,18 @@ The dashboard uses a custom:
 Example:
 
 ```md
-![Dashboard Preview](dashboard.png)
+<img width="1600" height="828" alt="c8303f80-5444-4754-a5dc-5ed4ee30484e" src="https://github.com/user-attachments/assets/7b01a00c-7685-441d-b028-f967ba809016" />
 
-<img width="1600" height="828" alt="c8303f80-5444-4754-a5dc-5ed4ee30484e" src="https://github.com/user-attachments/assets/d23dead6-9d47-41e5-9558-451ea58b0cb0" />
+```
+
+---
+
+# 📈 KPIs Included
+
+* Total Sales
+* Total Profit
+* Total Orders
+* Total Products
 
 ---
 
